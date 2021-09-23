@@ -1,0 +1,17 @@
+.homeComponent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+.homeComponent__title {
+  display: flex;
+  font-size: 40px;
+}
+
+.homeComponent__button {
+  display: flex;
+  margin-top: 20px;
+}

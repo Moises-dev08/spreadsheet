@@ -1,0 +1,10 @@
+.spreadSheet {
+  display: flex;
+  margin-top: 50px;
+}
+
+.spreadSheet__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
